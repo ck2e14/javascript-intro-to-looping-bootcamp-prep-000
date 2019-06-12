@@ -19,5 +19,7 @@ function whileLoop(n) {
 }
 
 
-function doWhileLoop(num)
-var i 
+function doWhileLoop(num) {
+  var i = 0 
+  
+}
