@@ -20,4 +20,4 @@ function whileLoop(n) {
 
 
 function doWhileLoop(num)
-
+var i 
