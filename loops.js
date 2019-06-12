@@ -24,6 +24,8 @@ function doWhileLoop(int) {
   i = i + 1;
   return i;
   }
-  do 
+  do {
+    console.log('I run once regardless.')
+  } while (increme)
 }
 
