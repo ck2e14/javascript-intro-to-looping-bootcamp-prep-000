@@ -19,5 +19,11 @@ function whileLoop(n) {
 }
 
 
-function doWhileLoop()
+function doWhileLoop(int) {
+  function incrementVariable() {
+  i = i + 1;
+  return i;
+  }
+  do 
+}
 
